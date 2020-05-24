@@ -2,3 +2,8 @@ body {
   font-family: 'Quicksand';
   padding: 2% 5%;
 }
+
+a {
+  text-decoration: none;
+  color: black;
+}
